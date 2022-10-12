@@ -5,7 +5,7 @@
 - Previsualisation des donnees
 - Interpretation du contenu des donnees
 - Mise en forme des donnees
-##Creation du modele: 
+## Creation du modele: 
 - couche Input: 
 - 1ere couche convultion avec 32 filtres 33 avec une activation "relu" 
 - 2eme couche convultion avec 16 filtres 33 avec une activation "relu" 
